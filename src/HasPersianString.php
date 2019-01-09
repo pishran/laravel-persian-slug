@@ -40,6 +40,8 @@ trait HasPersianSlug
      */
     public function getRouteKeyName()
     {
+        $this->slugOptions = $this->getSlugOptions();
+
         return $this->slugOptions->slugField;
     }
 }
