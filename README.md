@@ -9,6 +9,8 @@ use Spatie\Sluggable\SlugOptions;
 
 class Post extends Model
 {
+    use HasPersianSlug;
+    
     public function getSlugOptions(): SlugOptions
     {
         return SlugOptions::create()
@@ -17,6 +19,9 @@ class Post extends Model
     }
 }
 ```
+
+اطلاعات بیشتر در مورد کلاس SlugOptions:
+https://github.com/spatie/laravel-sluggable#usage
 
 ## روش نصب
 
