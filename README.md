@@ -21,6 +21,7 @@ class Post extends Model
 ```
 
 اطلاعات بیشتر در مورد کلاس SlugOptions:
+
 https://github.com/spatie/laravel-sluggable#usage
 
 ## روش نصب
