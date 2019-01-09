@@ -1,0 +1,31 @@
+{
+    "name": "pishran/laravel-persian-slug",
+    "description": "Creates Persian slugs for Eloquent models.",
+    "keywords": [
+        "laravel",
+        "persian",
+        "slug",
+        "eloquent"
+    ],
+    "homepage": "https://github.com/pishran/laravel-persian-slug",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Farid Aghili",
+            "email": "farid@pishranit.ir",
+            "homepage": "https://www.faridaghili.ir",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^7.2",
+        "laravel/framework": "^5.6",
+        "spatie/laravel-sluggable": "^2.1",
+        "pishran/persian-slug": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Pishran\\LaravelPersianSlug\\": "src"
+        }
+    }
+}
