@@ -29,3 +29,6 @@ https://github.com/spatie/laravel-sluggable#usage
 برای نصب و استفاده از این پکیج می توانید از کمپوسر استفاده کنید:
 
 `composer require pishran/laravel-persian-slug`
+
+## نسخه های قدیمی تر
+برای لاوارل ۸ از آخرین نسخه این پکیج و برای لاراول ۷ از نسخه ۱.۴ استفاده کنید
