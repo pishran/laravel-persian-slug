@@ -18,9 +18,9 @@
         }
     ],
     "require": {
-        "php": "^7.3|^8.0|^9.0",
-        "spatie/laravel-sluggable": "^2.0",
-        "pishran/persian-slug": "^1.0"
+        "php": "^7.3|^8.0",
+        "spatie/laravel-sluggable": "^3.3",
+        "pishran/persian-slug": "^2.1"
     },
     "autoload": {
         "psr-4": {
