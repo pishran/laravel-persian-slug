@@ -31,4 +31,4 @@ https://github.com/spatie/laravel-sluggable#usage
 `composer require pishran/laravel-persian-slug`
 
 ## نسخه های قدیمی تر
-برای لاوارل ۸ از آخرین نسخه این پکیج و برای لاراول ۷ از نسخه ۱.۴ استفاده کنید
+برای لاوارل ۸ بع بغذ از آخرین نسخه این پکیج و برای لاراول ۷ از نسخه ۱.۴ استفاده کنید
